@@ -1,5 +1,5 @@
 # user-profile-demo
-
+technologies used  :  ReactJS , NodeJS, MongodDB ,express
 Follow the step to run project
 For server : 
 step 1: cd ./backend
